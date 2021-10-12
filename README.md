@@ -52,3 +52,8 @@ Feito com ❤️ por Alex Bueno 👋🏽 Entre em contato!
 
 Com contribuições do pessoal do fórum de desenvolvedores do [Banco Inter](https://developers.bancointer.com.br/reference).
 Agradecimento especial ao Edmilson Orlando de Oliveira que criou um exemplo em PHP puro.
+
+https://img.shields.io/github/issues/alexbueno7/banco-inter-api-codeigniter
+https://img.shields.io/github/forks/alexbueno7/banco-inter-api-codeigniter
+https://img.shields.io/github/stars/alexbueno7/banco-inter-api-codeigniter
+https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Falexbueno7%2Fbanco-inter-api-codeigniter
