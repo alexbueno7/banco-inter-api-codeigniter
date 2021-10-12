@@ -1,5 +1,3 @@
-# CodeIgniter PHP / API Boletos Conta PJ Banco Inter
-
 ## 
 <h1 align="center">
     <a href="https://www.bancointer.com.br/empresas/conta-digital/pessoa-juridica/">🔗 CodeIgniter PHP / API Boletos Conta PJ Banco Inter</a>
