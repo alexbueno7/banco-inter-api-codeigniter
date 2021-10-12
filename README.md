@@ -43,7 +43,7 @@ As seguintes ferramentas foram usadas:
 ### Autor
 ---
 <a href="https://www.katzweb.com.br">
- <img style="border-radius: 50%;" src="<img style="height:auto;" alt="" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/u/62678401?v=4" width="260" height="260">" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" style="height:auto;" alt="" class="avatar avatar-user width-full border color-bg-primary" src="https://avatars.githubusercontent.com/u/62678401?v=4" width="260" height="260"/>
  <br />
  <sub><b>Alex Bueno / Katz Web</b></sub></a> <a href="https://www.katzweb.com.br" title="Alex Bueno">🐱</a>
 
