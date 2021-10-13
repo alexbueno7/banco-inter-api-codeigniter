@@ -25,7 +25,7 @@ A biblioteca é voltada para uso em Codeigniter 3, mas você pode adequar e util
 - Rode os seguintes comandos via terminal no servidor onde estará hospedado seu sistema (voce pode testar localhost)
 
 ```bash
-# Transforme o certificado .crt em uma chave public e outra private no formato .pem
+# Transforme o certificado .crt e a chave .key fornecidas pela API do Banco no momento do cadastro em formato .pem
 $ openssl x509 -inform PEM -in seu_certificado.crt > publicchave.pem
 $ openssl rsa -in sua_chave.key -text > private-chave.pem
 ```
